@@ -8,6 +8,10 @@
   z-index: 2;
 }
 
+.top-header a {
+  color: white;
+}
+
 .top-header .header_top, .top-header .header_bottom {
   display: flex;
   justify-content: space-between;
