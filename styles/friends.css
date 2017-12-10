@@ -13,7 +13,7 @@
   font-size: 14px;
 }
 
-.friends_section-row .with-tagline {
+.friends_section-row.with-tagline {
   justify-content: space-between;
 }
 
